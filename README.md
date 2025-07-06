@@ -9,6 +9,13 @@
 
 ###
 
+<!-- 🏆 GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshay-k-a-dev&theme=dracula&no-frame=true&row=1&column=7" />
+</div>
+
+###
+
 <img align="right" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" width="200" />
 
 ###
