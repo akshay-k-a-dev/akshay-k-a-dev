@@ -15,7 +15,10 @@
 </div>
 
 ###
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/akshayka.png" alt="Your Image Badge" />
+
+
 ###
 
 <img align="right" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" width="200" />
