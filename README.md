@@ -114,4 +114,4 @@
 ###
 ### 🐍 Terminal Snake — Eating My Commits Since Day One
 
-<img src="https://raw.githubusercontent.com/akshay-k-a-dev/akshay-k-a-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/akshay-k-a-dev/akshay-k-a-dev/output/github-snake-dark.svg" alt="Snake animation" />
