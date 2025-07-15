@@ -6,6 +6,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akshay-k-a-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-k-a-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-k-a-dev&label=Profile%20views&color=0e75b6&style=flat" alt="akshay ka" /> </p>
 
 ###
 
@@ -115,6 +118,10 @@
     <img src="https://img.shields.io/badge/TinkerHub-Profile-0a192f?logo=google-chrome&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
+
+###
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshay-k-a-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ###
 ### 🐍 Terminal Snake — Eating My Commits Since Day One
