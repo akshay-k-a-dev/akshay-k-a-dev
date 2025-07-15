@@ -113,7 +113,7 @@
     <img src="https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://app.mulearn.org/profile/akshayka-1@mulearn" target="_blank">
-    <img src="https://img.shields.io/badge/μLearn-Profile-6f42c1?logo=github&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/muLearn-Profile-6f42c1?logo=github&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://tinkerhub.org/@akshayka" target="_blank">
     <img src="https://img.shields.io/badge/TinkerHub-Profile-0a192f?logo=google-chrome&logoColor=white&style=for-the-badge" height="35" />
