@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akshay K A and I'm a Software Engineer from Kozhikode</h2>
+<h2 align="left">Hi 👋! My name is Akshay K A and I'm a Software Engineer from Calicut</h2>
 
 ###
 
