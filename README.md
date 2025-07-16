@@ -27,8 +27,6 @@
 
 <img align="right" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" width="200" />
 <br>
-###
-###
 
 <br>
 <br>
@@ -38,8 +36,6 @@
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<br>
 ## 🧠 FAQ (Frequently Asked Questions)
 
 ---
