@@ -120,11 +120,13 @@
   </a>
 </div>
 
-###
+### CONTRIBUTIONS
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshay-k-a-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### 🐍 Terminal Snake — Eating My Commits Since Day One
 
 <img src="https://raw.githubusercontent.com/akshay-k-a-dev/akshay-k-a-dev/output/github-snake-dark.svg" alt="Snake animation" />
