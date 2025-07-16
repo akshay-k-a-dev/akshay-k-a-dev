@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akshay K A and I'm a Software Engineer from Calicut</h2>
+<h2 align="left">Anitvirus, nah bro I am cool, I use linux</h2>
 
 ###
 
@@ -28,6 +28,64 @@
 <img align="right" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" width="200" />
 
 ###
+
+## 🧠 FAQ (Frequently Asked Questions)
+
+---
+
+### 💻 Most Favorite Distro?
+
+> 🐧 **Answer**: I'm a proud **distrohopper**!  
+> But deep down... ❤️ **Debian** holds a special place in my heart.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Debian-Love%20It-red?logo=debian&logoColor=white&style=for-the-badge" alt="Debian Badge"/>
+</p>
+
+---
+
+### 🪟 Why Not Windows?
+
+> 🤷‍♂️ **Answer**: Because...  
+> ⛔ **"I have a life."**  
+> (and I love having control over my system 😎)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Windows+is+not+my+cup+of+tea.;I+prefer+freedom+over+frustration."/>
+</p>
+
+---
+
+### 💼 Most Favorite Laptop?
+
+> 💬 **Answer**: The legendary **ThinkPad**!  
+> It’s not just a laptop — it’s a **philosophy**. 🧘‍♂️
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ThinkPad-Love%20It-black?logo=lenovo&logoColor=white&style=for-the-badge" alt="ThinkPad Badge"/>
+</p>
+
+---
+
+### 🎯 Most Wanted Thing in Life?
+
+> 🍓 **Answer**: A **Raspberry Pi**  
+> It’s small, it’s mighty, and it’s everything I need for hacking life!
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-My%20Dream%20Gear-BC1142?logo=raspberrypi&logoColor=white&style=for-the-badge" alt="Raspberry Pi Badge"/>
+  <br>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="160px" alt="Pi gif">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="130px" alt="Tux Penguin">
+</p>
+
+> _Stay curious. Stay open source. Dream in bash scripts._ 🧑‍💻
+
 
 ### 🛠️ Tech Stack
 
