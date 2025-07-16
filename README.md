@@ -36,7 +36,8 @@
 <br><br>
 <br><br>
 <br><br>
-###  🧠 FAQ (Frequently Asked Questions)
+
+### 🧠 FAQ (Frequently Asked Questions)
 
 ---
 
