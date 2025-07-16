@@ -25,7 +25,7 @@
 
 ###
 
-<img align="right" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" width="200" />
+<img align="right" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" width="300" />
 <br>
 
 <br>
@@ -36,7 +36,7 @@
 <br><br>
 <br><br>
 <br><br>
-## 🧠 FAQ (Frequently Asked Questions)
+###  🧠 FAQ (Frequently Asked Questions)
 
 ---
 
